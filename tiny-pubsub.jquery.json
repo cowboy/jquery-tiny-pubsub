@@ -1,0 +1,26 @@
+{
+  "name": "tiny-pubsub",
+  "title": "Tiny Pub/Sub",
+  "description": "A really, really, REALLY tiny pub/sub implementation for jQuery.",
+  "version": "0.7.0",
+  "homepage": "https://github.com/cowboy/jquery-tiny-pubsub",
+  "author": {
+    "name": "\"Cowboy\" Ben Alman",
+    "url": "http://benalman.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cowboy/jquery-tiny-pubsub.git"
+  },
+  "bugs": "https://github.com/cowboy/jquery-tiny-pubsub/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/cowboy/jquery-tiny-pubsub/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.7"
+  },
+  "keywords": []
+}
